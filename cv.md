@@ -1,8 +1,9 @@
 # Nadezhda Vladimirova
 
 ## My contact Info
-- email: nadejdav90@gmail.com
-- GitHub: Matuma1ni
+- **email**: nadejdav90@gmail.com
+- **GitHub**: [Matuma1ni](https://github.com/Matuma1ni)
+- **LinkedIn**: [Nadezhda Vladimirova](https://www.linkedin.com/in/elpis96)
   
 ## About me
 Junior Front-End Developer (28) with 1 year of professional experience and a decade of research in chemistry (PhD coursework completed). Located in Belgrade, eager to leverage meticulous attention to detail and a drive for exploring new technologies in collaborative web development projects.
