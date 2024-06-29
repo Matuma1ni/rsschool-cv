@@ -28,24 +28,33 @@ Junior Front-End Developer (28) with 1 year of professional experience and a dec
 
 ### Tools
 - VS Code
+- RStudio
+- Google Colab
 - Git
 - GitHub
 - Azure DevOps
+- Other
+  - Origin
+  - The Unscrambler
+  - MS Office
+  - Inkscape
 
-### Other
-- Origin
-- MS Office
-- Inkscape
+## Work experience
+- **2024-Present** Junior FE Developer
+- **2023-2024** Trainee FE Developer
 
 ## Education
-- 2020-2024 Saint Petersburg State University, PhD courses
+- **2020-2024** Saint Petersburg State University (PhD coursework completed)
 
     *Analytic chemistry, chemometrics, QSPR*
 
-- 2018-2020 Saint Petersburg State University, Master degree
+- **2018-2020** Saint Petersburg State University (Master's degree)
     
-    *Nanosystem and nanomaterials, solid state chemistry*
+    *Nanosystem and Nanomaterials, Solid State Chemistry*
 
-- 2014-2018 Saint Petersburg State University, Bachelor degree
+- **2014-2018** Saint Petersburg State University (Bachelor's degree)
 
-    *Chemics, Physics and Mechanics of materials, solid state chemistry*
+    *Chemistry, Physics and Mechanics of Materials, Solid State Chemistry*
+
+## English language
+B2 (SPbU certified), actively used in projects
