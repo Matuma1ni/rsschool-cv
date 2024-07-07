@@ -1,0 +1,15 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+label,
+button,
+select,
+summary,
+[type=radio],
+[type=submit],
+[type=checkbox] {
+    cursor: pointer;
+}
