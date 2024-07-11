@@ -13,3 +13,9 @@ summary,
 [type=checkbox] {
     cursor: pointer;
 }
+
+main {
+    display: flex !important;
+    justify-content: center;
+    align-content: center;
+}
