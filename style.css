@@ -14,8 +14,19 @@ summary,
     cursor: pointer;
 }
 
-main {
+main, 
+footer {
     display: flex !important;
     justify-content: center;
-    align-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.footer-container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 400px;
 }
