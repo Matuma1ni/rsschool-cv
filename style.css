@@ -14,12 +14,54 @@ summary,
     cursor: pointer;
 }
 
+body {
+    margin: 0px 0px;
+    background-color: #acbcce;
+}
+
 main, 
+header,
 footer {
     display: flex !important;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
+    flex-direction: column;    
+    background-color: #aec4e1;
+}
+
+main {
+    padding: 10px 20px;
+}
+
+header {
+    padding-top: 10px;;
+}
+
+h2 {
+    margin: 13px;
+}
+h3 {
+    margin: 10px;
+}
+
+.about-me {
+    text-align: center;
+}
+@media (min-width: 800px) {
+    main,
+    header,
+    footer {
+        margin: auto;
+        width: 67%;
+    }
+}
+@media (min-width: 1200px) {
+    main,
+    header,
+    footer {
+        margin: auto;
+        width: 40%;
+    }
 }
 
 .footer-container {
@@ -28,5 +70,5 @@ footer {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    gap: 400px;
+    gap: 200px;
 }
