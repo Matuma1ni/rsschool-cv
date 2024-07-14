@@ -4,6 +4,13 @@
     box-sizing: border-box;
 }
 
+@font-face {
+    font-family: "Space Mono";
+    src: url('static/font/SpaceMono-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
 label,
 button,
 select,
@@ -12,4 +19,86 @@ summary,
 [type=submit],
 [type=checkbox] {
     cursor: pointer;
+}
+
+body {
+    font-family: 'Space Mono', sans-serif;
+    margin: 0px 0px;
+    background-color: #acbcce;
+}
+
+main, 
+header,
+footer {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;    
+    background-color: #aec4e1;
+}
+
+nav {
+    background-color: #aec4e1;
+}
+nav ul {
+    list-style: none;
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;    
+    gap: 50px;
+    margin: 0px 0px;
+    padding: 16px 0px;
+}
+
+main {
+    padding: 10px 20px;
+}
+main ul {
+    margin: 6px 0px;
+}
+
+header {
+    padding-top: 10px;;
+}
+header h2 {
+    margin: 0px;
+}
+
+h2 {
+    margin: 13px;
+}
+h3 {
+    margin: 10px;
+}
+
+.about-me {
+    text-align: center;
+}
+@media (min-width: 800px) {
+    main,
+    header,
+    footer,
+    nav {
+        margin: auto;
+        width: 67%;
+    }
+}
+@media (min-width: 1200px) {
+    main,
+    header,
+    footer,
+    nav {
+        margin: auto;
+        width: 40%;
+    }
+}
+
+.footer-container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
 }
